@@ -1,4 +1,4 @@
-package com.org.swagger;
+package com.org.quiz.swagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

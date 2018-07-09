@@ -1,12 +1,12 @@
-package com.org;
+package com.org.quiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrganisationApplication {
+public class QuizApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OrganisationApplication.class, args);
+		SpringApplication.run(QuizApplication.class, args);
 	}
 }
